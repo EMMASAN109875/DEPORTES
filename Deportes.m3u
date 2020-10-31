@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 ,BARÇA TV
+http://tv.nousiptv.com:25462/Omy/1234/3104
+
+#EXTINF:-1 ,MOVISTAR CANAL GOLF HD
+http://tv.nousiptv.com:25462/Omy/1234/3149
+
+#EXTINF:-1 ,MOVISTAR FORMULA 1
+http://tv.nousiptv.com:25462/Omy/1234/3094
+
+#EXTINF:-1 ,MOVISTAR F1 FHD
+http://tv.nousiptv.com:25462/Omy/1234/53028
+
+#EXTINF:-1 ,MOVISTAR LALIGA FHD
+http://tv.nousiptv.com:25462/Omy/1234/32365
+
+#EXTINF:-1 ,REAL MADRID TV
+http://tv.nousiptv.com:25462/Omy/1234/3689
+
+#EXTINF:-1 ,GOL TV
+http://tv.nousiptv.com:25462/Omy/1234/3128
+
+#EXTINF:-1 ,TELEDEPORTE FHD
+http://tv.nousiptv.com:25462/Omy/1234/3173
+
+#EXTINF:-1 ,EUROSPORT 2
+http://tv.nousiptv.com:25462/Omy/1234/51352
+
+#EXTINF:-1 ,Fox Sports Premium
+https://espare.tk/live/fox_sports_premium_lat.m3u8?token=p5lpXOilHzFw-h_ureo3sg&expires=1604169817
+
+#EXTINF:-1 ,Fox Sports
+https://espare.tk/live/fox_sports_arg.m3u8?token=YDUiBUpLe6NBLYLgRSukCw&expires=1604169692
+
+#EXTINF:-1 ,Fox Sports2
+https://espare.tk/live/fox_sports2_lat.m3u8?token=wAkJ6CFGmFL_pRcT_U7fGQ&expires=1604170401
+
+#EXTINF:-1 ,Fox Sports3
+https://espare.tk/live/fox_sports3_lat.m3u8?token=_M_vm8EfMA0JoLH9WTtoeQ&expires=1604169959
+
+#EXTINF:-1 ,ESPN MEX
+https://espare.tk/live/espn_lat.m3u8?token=_i1BKbUQHDKiBjsXJn6jiQ&expires=1604169302
+
+#EXTINF:-1 ,ESPN2
+https://espare.tk/live/espn2ar.m3u8?token=C58WF04mt94jXi7yaqGwKw&expires=1604169438
+
+#EXTINF:-1 ,ESPN2 MEX
+https://espare.tk/live/espn2_lat.m3u8?token=b3Z2_t8u8pYKYLjizI8asA&expires=1604169507
+
+#EXTINF:-1 ,ESPN3
+https://espare.tk/live/espn3ar.m3u8?token=vlci7Iyb-J5y16rbt_bOTA&expires=1604169546
+
+#EXTINF:-1 ,ESPN3 MEX
+https://espare.tk/live/espn3_lat.m3u8?token=6wy8RSlt4Ff_bobKOaSOgA&expires=1604170325
+
+#EXTINF:-1 ,ESPN-EXTRA
+https://espare.tk/live/espn_plus_lat.m3u8?token=TXnM7wYtehHGEDle1nfTJA&expires=1604169374
+
+#EXTINF:-1 ,DIRECTV SPORTS2
+https://ul.cdn946.net:8443/hls/xl27bc.m3u8?s=cGVF7AH_qTJNfMs4tm2WlQ&e=1604169184
+
+#EXTINF:-1 ,DIRECTV SPORTS +
+https://e6.habrox.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=Tmv2WG4cxpXgGPb-8aS7fQ&expires=1604109887&rnd=
+
+#EXTINF:-1 ,TNT SPORTS
+https://espare.tk/live/tnt_sports_lat.m3u8?token=iylRgASBXnTT2rM4gatphQ&expires=1604168974
+
+
+
+
